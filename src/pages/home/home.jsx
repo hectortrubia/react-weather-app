@@ -11,7 +11,7 @@ import "../../boostrap-icons/css/weather-icons.min.css"
 import "./index.css";
 import Filter from "../../components/filter/filter";
 import MyGeolocation from "../../components/geolocation/geolocation";
-
+import Topbar from "../../components/topbar/topbar";
 
 
 
